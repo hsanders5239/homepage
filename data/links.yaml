@@ -36,6 +36,10 @@
       title: Accessibility Map
       description: Avoid broken accessibility devices
       link: "https://access.campuspulse.app"
+    - icon: "triangle-exclamation"
+      title: 'RIT Services Statuses'
+      description: 'Services status from both ITS and student systems'
+      link: 'https://status.campuspulse.app/'
     # - icon: "wheelchair"
     #   title: 'RIT Slope Map'
     #   description: 'Find a route to class that has the flattest slopes to navigate'
