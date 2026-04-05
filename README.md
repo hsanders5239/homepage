@@ -1,6 +1,6 @@
 # CampusPulse Homepage
 
-This repo is the main coebase powering https://campuspulse.app
+This repo is the main codebase powering https://campuspulse.app
 
 It started as a react app but is now generated using hugo.
 
